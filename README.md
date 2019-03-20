@@ -27,6 +27,10 @@ For windows it is recommended to install dependencies as:
 
 $ pip install -r requirements.txt --no-dependencies
 
+
+Run project:
+$ python manage.py runserver
+
 Admin account:
 santiago@goexpedi.com
 pwd: goexpedi
