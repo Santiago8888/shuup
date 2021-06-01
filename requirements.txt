@@ -70,7 +70,7 @@ tinycss2==0.6.1
 unicodecsv==0.14.1
 Unidecode==1.0.23
 uritemplate==3.0.0
-urllib3==1.24.2
+urllib3==1.26.5
 webencodings==0.5.1
 xlrd==1.2.0
 xmljson==0.2.0
